@@ -1,3 +1,3 @@
 👋 Hi, I’m @doylet
 
-Experiements with full-stack development and machine learning.
+I experiment with full-stack development and machine learning.
